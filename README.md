@@ -5,4 +5,4 @@ The solution has been obtained by solving the Pentagon equation with Mathematica
 
 The solutions is stored in the file "Fsymbols_solution.m" as a list of rules. The notation is as follows: $F[a,b,c,d][e,f]$ corresponds to the matrix element $(F_a^{bcd})_{ef}$.
 
-With the file "VerifySolution.nb" it can be verified that the solution fulfils the pentagon equation and is unitary.
+With the file "VerifySolution.nb" it can be verified that the solution fulfils the pentagon equation and that the matrices are unitary.
