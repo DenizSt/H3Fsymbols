@@ -1,5 +1,5 @@
 # H3Fsymbols
-These are the F-symbols for the H3 fusion category (see https://arxiv.org/abs/1906.01322). There are two parameters in the solution, called p1 and p2, which can both be either +1 or -1. All elements are real numbers.
+These are the F-symbols for the H3 fusion category (see https://arxiv.org/abs/1906.01322). There are two parameters in the solution, called p1 and p2, which are either +1 or -1, so there are four different solutions. In each of these solutions all elements are real numbers.
 
 The solution has been obtained by solving the Pentagon equation with Mathematica (see the file "H3pentagon.nb") and exploiting properties of trivalent categories.
 
